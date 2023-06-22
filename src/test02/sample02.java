@@ -12,5 +12,6 @@ public class sample02 {
 	 System.out.println("jijijiji");
 	 System.out.println("jijijiji");
 
+	 System.out.println("kookokokkkokok");
 }
 }
