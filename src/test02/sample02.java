@@ -6,6 +6,11 @@ public class sample02 {
 	
 	 System.out.println("おつかれさま");
 	 System.out.println("お腹すいてる");
+
 	 System.out.println("おはよう");
+
+	 System.out.println("jijijiji");
+	 System.out.println("jijijiji");
+
 }
 }
