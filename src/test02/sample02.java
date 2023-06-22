@@ -5,6 +5,8 @@ public class sample02 {
 		System.out.println("hello");
 	
 	 System.out.println("おつかれさま");
-	 
+
+	 System.out.println("お腹すいてる");
+
 }
 }
