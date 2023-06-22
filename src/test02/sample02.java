@@ -11,11 +11,12 @@ public class sample02 {
 
 	 System.out.println("jijijiji");
 	 System.out.println("jijijiji");
-<<<<<<< HEAD
+
 
 	 System.out.println("kookokokkkokok");
-=======
+
 	 System.out.println("testest");
->>>>>>> branch 'master' of https://github.com/takatomo25252/test02.git
-}
+	 System.out.println("testest44444");
+	 
+	}
 }
